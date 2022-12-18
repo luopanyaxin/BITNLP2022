@@ -1,0 +1,82 @@
+[0;34m2022-12-13 21:47:01,943 log.py [line:55] INFO prediction begin!
+[0;34m2022-12-13 21:47:01,943 log.py [line:55] INFO ./output\2021-12-02_v3_seed_0_en2zh
+[0;34m2022-12-13 21:47:45,171 log.py [line:55] INFO prediction begin!
+[0;34m2022-12-13 21:48:48,412 log.py [line:55] INFO prediction begin!
+[0;34m2022-12-13 21:48:48,413 log.py [line:55] INFO ./2021-12-02_v3_seed_0_en2zh
+[0;34m2022-12-13 23:15:15,207 log.py [line:55] INFO ***** Running training *****
+[0;34m2022-12-13 23:15:15,209 log.py [line:55] INFO   Num examples = 2700
+[0;34m2022-12-13 23:15:15,209 log.py [line:55] INFO   Num Epochs = 8
+[0;34m2022-12-13 23:15:15,209 log.py [line:55] INFO   Instantaneous batch size per device = 16
+[0;34m2022-12-13 23:15:15,209 log.py [line:55] INFO   Total train batch size (w. parallel, distributed & accumulation) = 160
+[0;34m2022-12-13 23:15:15,209 log.py [line:55] INFO   Gradient Accumulation steps = 10
+[0;34m2022-12-13 23:15:15,209 log.py [line:55] INFO   Total optimization steps = 136
+[0;34m2022-12-13 23:17:24,573 log.py [line:55] INFO ***** Running training *****
+[0;34m2022-12-13 23:17:24,574 log.py [line:55] INFO   Num examples = 2700
+[0;34m2022-12-13 23:17:24,574 log.py [line:55] INFO   Num Epochs = 8
+[0;34m2022-12-13 23:17:24,574 log.py [line:55] INFO   Instantaneous batch size per device = 16
+[0;34m2022-12-13 23:17:24,574 log.py [line:55] INFO   Total train batch size (w. parallel, distributed & accumulation) = 160
+[0;34m2022-12-13 23:17:24,574 log.py [line:55] INFO   Gradient Accumulation steps = 10
+[0;34m2022-12-13 23:17:24,575 log.py [line:55] INFO   Total optimization steps = 136
+[0;34m2022-12-13 23:38:15,785 log.py [line:55] INFO ***** Running training *****
+[0;34m2022-12-13 23:38:15,787 log.py [line:55] INFO   Num examples = 2700
+[0;34m2022-12-13 23:38:15,787 log.py [line:55] INFO   Num Epochs = 8
+[0;34m2022-12-13 23:38:15,787 log.py [line:55] INFO   Instantaneous batch size per device = 16
+[0;34m2022-12-13 23:38:15,787 log.py [line:55] INFO   Total train batch size (w. parallel, distributed & accumulation) = 160
+[0;34m2022-12-13 23:38:15,787 log.py [line:55] INFO   Gradient Accumulation steps = 10
+[0;34m2022-12-13 23:38:15,787 log.py [line:55] INFO   Total optimization steps = 136
+[0;34m2022-12-13 23:39:55,084 log.py [line:55] INFO ***** Running training *****
+[0;34m2022-12-13 23:39:55,086 log.py [line:55] INFO   Num examples = 2700
+[0;34m2022-12-13 23:39:55,086 log.py [line:55] INFO   Num Epochs = 8
+[0;34m2022-12-13 23:39:55,086 log.py [line:55] INFO   Instantaneous batch size per device = 16
+[0;34m2022-12-13 23:39:55,086 log.py [line:55] INFO   Total train batch size (w. parallel, distributed & accumulation) = 160
+[0;34m2022-12-13 23:39:55,086 log.py [line:55] INFO   Gradient Accumulation steps = 10
+[0;34m2022-12-13 23:39:55,086 log.py [line:55] INFO   Total optimization steps = 136
+[0;34m2022-12-13 23:41:58,459 log.py [line:55] INFO ***** Running training *****
+[0;34m2022-12-13 23:41:58,460 log.py [line:55] INFO   Num examples = 2700
+[0;34m2022-12-13 23:41:58,460 log.py [line:55] INFO   Num Epochs = 8
+[0;34m2022-12-13 23:41:58,460 log.py [line:55] INFO   Instantaneous batch size per device = 4
+[0;34m2022-12-13 23:41:58,460 log.py [line:55] INFO   Total train batch size (w. parallel, distributed & accumulation) = 40
+[0;34m2022-12-13 23:41:58,461 log.py [line:55] INFO   Gradient Accumulation steps = 10
+[0;34m2022-12-13 23:41:58,461 log.py [line:55] INFO   Total optimization steps = 544
+[0;34m2022-12-13 23:44:27,519 log.py [line:55] INFO 
+
+[0;34m2022-12-13 23:44:27,519 log.py [line:55] INFO {'bleu': 4.640840428638981}
+[0;34m2022-12-13 23:44:27,519 log.py [line:55] INFO save model
+[0;34m2022-12-13 23:44:28,461 log.py [line:55] INFO Epoch:0  score:4.640840   best_score:4.640840
+[0;34m2022-12-13 23:46:51,545 log.py [line:55] INFO 
+
+[0;34m2022-12-13 23:46:51,545 log.py [line:55] INFO {'bleu': 7.874144211288017}
+[0;34m2022-12-13 23:46:51,545 log.py [line:55] INFO save model
+[0;34m2022-12-13 23:46:52,458 log.py [line:55] INFO Epoch:1  score:7.874144   best_score:7.874144
+[0;34m2022-12-13 23:49:19,245 log.py [line:55] INFO 
+
+[0;34m2022-12-13 23:49:19,246 log.py [line:55] INFO {'bleu': 9.60516581642238}
+[0;34m2022-12-13 23:49:19,246 log.py [line:55] INFO save model
+[0;34m2022-12-13 23:49:20,184 log.py [line:55] INFO Epoch:2  score:9.605166   best_score:9.605166
+[0;34m2022-12-13 23:51:44,312 log.py [line:55] INFO 
+
+[0;34m2022-12-13 23:51:44,312 log.py [line:55] INFO {'bleu': 12.970678333829506}
+[0;34m2022-12-13 23:51:44,312 log.py [line:55] INFO save model
+[0;34m2022-12-13 23:51:45,214 log.py [line:55] INFO Epoch:3  score:12.970678   best_score:12.970678
+[0;34m2022-12-13 23:54:10,293 log.py [line:55] INFO 
+
+[0;34m2022-12-13 23:54:10,294 log.py [line:55] INFO {'bleu': 14.871575846864905}
+[0;34m2022-12-13 23:54:10,294 log.py [line:55] INFO save model
+[0;34m2022-12-13 23:54:11,200 log.py [line:55] INFO Epoch:4  score:14.871576   best_score:14.871576
+[0;34m2022-12-13 23:56:34,142 log.py [line:55] INFO 
+
+[0;34m2022-12-13 23:56:34,142 log.py [line:55] INFO {'bleu': 18.04349981655118}
+[0;34m2022-12-13 23:56:34,142 log.py [line:55] INFO save model
+[0;34m2022-12-13 23:56:35,046 log.py [line:55] INFO Epoch:5  score:18.043500   best_score:18.043500
+[0;34m2022-12-13 23:58:55,254 log.py [line:55] INFO 
+
+[0;34m2022-12-13 23:58:55,255 log.py [line:55] INFO {'bleu': 19.25221472936584}
+[0;34m2022-12-13 23:58:55,255 log.py [line:55] INFO save model
+[0;34m2022-12-13 23:58:56,165 log.py [line:55] INFO Epoch:6  score:19.252215   best_score:19.252215
+[0;34m2022-12-14 00:01:02,752 log.py [line:55] INFO 
+
+[0;34m2022-12-14 00:01:02,752 log.py [line:55] INFO {'bleu': 19.23531327733314}
+[0;34m2022-12-14 00:01:02,752 log.py [line:55] INFO Epoch:7  score:19.235313   best_score:19.252215
+[0;34m2022-12-14 00:01:02,752 log.py [line:55] INFO training finished!
+[0;34m2022-12-14 00:01:02,752 log.py [line:55] INFO prediction begin!
+[0;34m2022-12-14 00:01:02,752 log.py [line:55] INFO ./2022-12-02_v3_seed_0_en2zh
