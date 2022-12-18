@@ -31,6 +31,8 @@
 	```shell
 	python run_translation_no_trainer_myown_en2zh.py
 	```
-你可以使用submit/submit_example/txt直接进行提交
+你可以使用submit/submit_example.txt直接进行提交
 ## 3. 结果
 我们在比赛中达到了第3名，得分为35.377
+## 4. 收获
+我们组没有人是在自然语言处理的，所以一开始大家对这些模型也不是很了解，对数据也不是很了解。但是在这个比赛中，我们从transformer开始学习，看一些最新的论文，了解新的技术，在不断地改进中，逐渐达到了这个水准，也从0.07进步到了35。
