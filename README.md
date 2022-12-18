@@ -15,7 +15,7 @@
    **Note:  安装前请确保电脑上是否有显卡且显卡算力和pytorch版本匹配**
 3.  安装FedKNOW所需要的包
 	```shell
-	git clone https://github.com/LINC-BIT/FedKNOW.git
+	git clone https://github.com//luopanyaxin/BITNLP2022.git
 	pip install -r requirements.txt
 	```
 ### 2.2 运行代码
